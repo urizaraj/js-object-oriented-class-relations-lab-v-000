@@ -23,3 +23,9 @@ class Passenger {
     this.id = ++passengerid
   }
 }
+
+class Trip {
+  constructor() {
+    
+  }
+}
