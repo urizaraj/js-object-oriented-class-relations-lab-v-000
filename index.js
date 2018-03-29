@@ -2,6 +2,12 @@ let userid = 0
 let passengerid = 0
 let tripid = 0
 
+const store = {
+  drivers: [],
+  passengers: []
+  trips: []
+}
+
 class Driver {
   constructor(name) {
     this.name = name
