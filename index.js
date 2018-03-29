@@ -5,4 +5,12 @@ class Driver {
     this.name = name
     this.id = ++userid
   }
+
+  trips() {
+    
+  }
+
+  passengers() {
+    
+  }
 }
