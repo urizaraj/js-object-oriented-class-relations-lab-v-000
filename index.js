@@ -4,7 +4,7 @@ let tripid = 0
 
 const store = {
   drivers: [],
-  passengers: []
+  passengers: [],
   trips: []
 }
 
