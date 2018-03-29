@@ -12,7 +12,6 @@ class Driver {
 
   }
 
-
   passengers() {
 
   }
