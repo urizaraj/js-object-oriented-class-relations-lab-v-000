@@ -1,4 +1,6 @@
 let userid = 0
+let passengerid = 0
+let tripid = 0
 
 class Driver {
   constructor(name) {
@@ -7,10 +9,16 @@ class Driver {
   }
 
   trips() {
-    
+
   }
 
   passengers() {
-    
+
+  }
+}
+
+class Passenger {
+  constructor(name) {
+    this.name = name
   }
 }
